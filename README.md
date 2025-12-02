@@ -8,7 +8,7 @@ ARCHITECTURE :
            /model  
               /acceuil.model.co  
            /view  
-
+           
     /public  
            /css  
               styles.css  
