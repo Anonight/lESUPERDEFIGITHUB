@@ -3,16 +3,16 @@ On fait des équipes de 4 et on doit faire un role chacun et faire des trucs pou
 
 ARCHITECTURE :   
 /www  
-/app  
-   /controller  
-   /model  
-      /acceuil.model.co  
-   /view  
+    /app  
+           /controller  
+           /model  
+              /acceuil.model.co  
+           /view  
 
-/public  
-   /css  
-      styles.css  
-      header.css  
-      footer.css  
-   /fonts  
-   /images  
+    /public  
+           /css  
+              styles.css  
+              header.css  
+              footer.css  
+           /fonts  
+           /images  
