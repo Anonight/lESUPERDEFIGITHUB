@@ -12,5 +12,8 @@ ARCHITECTURE :
 
 /public
    /css
+      styles.css
+      header.css
+      footer.css
    /fonts
    /images
