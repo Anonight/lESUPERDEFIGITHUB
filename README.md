@@ -6,7 +6,7 @@ ARCHITECTURE :
     /app  
            /controller  
            /model  
-              /acceuil.model.co  
+              acceuil.model.co  
            /view  
            
     /public  
