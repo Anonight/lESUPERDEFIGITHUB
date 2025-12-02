@@ -1,1 +1,2 @@
 # lESUPERDEFIGITHUB
+On fait des équipes de 4 et on doit faire un role chacun et faire des trucs pour un projet 
