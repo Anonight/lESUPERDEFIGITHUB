@@ -17,3 +17,6 @@ ARCHITECTURE :
            /fonts  
            /images  
 
+#La checklist
+- [] Page accueil
+- [] Page galerie
