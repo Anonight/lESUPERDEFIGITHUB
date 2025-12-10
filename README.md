@@ -19,4 +19,4 @@ ARCHITECTURE :
 
 #La checklist
 - [] Page accueil
-- 
+- [] Page galerie
